@@ -1,0 +1,9 @@
++++
+title = "NgeShare - Bersyukur"
+date = 2014-10-05T21:06:00Z
+tags = ["ocehanku"]
+comments = true
++++
+
+<center><img border="0" data-original-height="700" data-original-width="1100" src="https://3.bp.blogspot.com/-Rl1C_yAskEE/XNqpO1qtgaI/AAAAAAAATos/p4yT2gc318w9WcvUYd79nnSwcAyQeCkbgCLcBGAs/s1600/besryukur.png" /></center><br /><div style="text-align: justify;">Mungkin saat ini kamu merasa biasa pada hal-hal yang telah kamu miliki, atau kejadian yang sedang kamu alami di waktu ini. Tapi, ketika di masa depan, mungkin rasa itu akan terganti. Terganti oleh perasaan rindu dan menyesali, rindu kepada waktumu di masa lalu, menyesali hal-hal yang telah berlalu/ pergi. Di saat semua itu masih kamu miliki, di saat kamu masih mampu untuk mendekati, di saat kamu masih mampu menikmati, dan bercerita kepada mereka yang kini harus jauh darimu, dan kemudian menyesali hal-hal yang telah kamu sia-siakan di masa lalu.<br /><br />
+Setiap yang datang akan pergi, meninggalkan apa yang dialaminya di saat ini. Seperti seekor anak merpati yang baru menetas dari sebutir telur yang begitu rapuh. Dengan berjalannya waktu merpati itu tumbuh, menjadi merpati dewasa yang kemudian meninggalkan sarangnya. Meneruskan perjuangan sang induk dan hidupnya. Suatu saat kita akan seperti itu kawan, karena ini adalah kehidupan. Bersiaplah untuk mengalaminya di suatu waktu dan berusahalah yang terbaik. Dan tentang apa yang kamu dapatkan sekarang, bersyukurlah selagi kamu masih mampu untuk merasakannya, karena dari semua yang ada ini, hanya sesaat untuk dapat kita miliki...<br /><iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/170657926&amp;color=0066cc&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%"></iframe></div>

@@ -1,0 +1,14 @@
++++
+title = "NgeShare - Referensi Komik, Si Juki"
+date = 2012-08-15T04:45:00Z
+tags = ["karya Indonesia"]
+comments = true
++++
+
+<center><img border="0" src="https://4.bp.blogspot.com/-XWOA5zLXUMU/UCrGtUpOljI/AAAAAAAACPk/Efor-VJcogI/s1600/sju.jpg" /></center><br />
+<div style="text-align: justify;">Halo gan, kali ini saya akan berbagi refrensi komik yang sepertinya dapat menghibur Anda kala Anda sedang <strike>dirundung rasa</strike> "GALAU". Refrensi komik kali ini yang saya pilih adalah komik berjudul <a href="https://twitter.com/jukihoki" target="_blank"><b><span style="color: #0b5394;">"Si Juki"</span></b></a>, kok nama judulnya kayaknya familiar ya? Hehehe...<br /><br />
+Anda yang asli orang Indonesia pastinya sudah tahu dengan nama Juki, ya nama yang identik dengan orang Indonesia ini telah dipatenkan menjadi sebuah judul dari komik garapan komikus Indonesia asli, komikus tersebut bernama <b><span style="color: #0b5394;"><a href="https://twitter.com/fazameonk" target="_blank">"FazaMeonk"</a></span></b> (nama tenarnya). FazaMeonk adalah seorang komikus berbakat Indonesia yang cukup terkenal dengan karya-karyanya.<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: left;"><tbody><tr><td style="text-align: center;"><img border="0" src="https://2.bp.blogspot.com/-K5SAEnsSEqc/UCrGFfs0e6I/AAAAAAAACPc/U2KS0OXaEeQ/s1600/si+juki.jpg" /></td></tr><tr><td class="tr-caption" style="text-align: center;">Si Juki</td></tr></tbody></table><br />
+Lanjut lagi tentang komik "Si Juki", komik "Si Juki" ini menceritakan tentang kehidupan seorang yang bernama Juki (seorang yang amat sangat lucu dan konyol, lihat aja tampangnya, hehehe...). Si tokoh utama tersebut memiliki sebuah semboyan yang amat sangat unik, apa itu semboyannya? Semboyannya hanya dua kata yaitu "ANTI MAINSTREAM", <i>mainstream = arus utama</i>. Dua kata tersebut sering kali hadir dalam dialog Si Juki, bahkan di baju si tokoh selalu terpapar kata tersebut, hahahaha... 😂<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: left;"><tbody><tr><td style="text-align: center;"><img border="0" src="https://1.bp.blogspot.com/-M7LcOqSM1Rs/UCrEd2hClCI/AAAAAAAACPU/Qcmp7nTylqo/s1600/21.jpg" /></td></tr><tr><td class="tr-caption" style="text-align: center;">Buku Komik Si Juki yang baru ane koleksi</td></tr></tbody></table><br />
+Anda dapat menyimak/ membaca buku ini secara gratis di<b>&nbsp; <a href="https://www.ciayo.com/id/comic/si-juki-mang-awung" target="_blank">sini</a> </b>atau Anda juga dapat membeli komiknya di toko buku Gramedia terdekat. Oh iya, Anda juga dapat mengetahui update terbaru dari komik ini di <a href="http://www.facebook.com/JukiHoki"><b>FansPage</b></a>-nya. Selamat mencoba! 😄 </div>

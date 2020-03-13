@@ -1,0 +1,16 @@
++++
+title = "NgeShare - Mengagumi Perjuangan"
+date = 2014-09-07T12:59:00Z
+tags = ["ocehanku"]
+comments = true
++++
+
+<center><img border="0" data-original-height="651" data-original-width="976" src="https://4.bp.blogspot.com/-QwsQ8gMACjo/XNqqMe9ZtdI/AAAAAAAATo0/bF7Ma7me4qsVrK01uA5d6KMa87QhGFzBQCLcBGAs/s1600/mengagumi.jpg" /></center><br />
+<div style="text-align: justify;">Kagum, ya kagum, sebuah sikap atau rasa takjub dalam diri yang timbul karena sesuatu yang menarik atau kelebihan. Menarik/ kelebihan yang dirasa tidak atau belum dimilikinya. Kelebihan dari sesuatu benda, keindahan alam, atau kelebihan dari seseorang. Tapi pada umumnya kagum paling banyak dirasa ketika melihat kelebihan seseorang. Mulai dari fisik, materi, sikap, atau kemampuan yang dimilikinya. Mungkin empat hal tersebut yang paling mudah dirasa dalam membuat orang lain kagum. Tapi ada satu hal yang mungkin belum pernah kamu pikirkan untuk mengaguminya.<br />
+<blockquote class="tr_bq">Yang lain? Apa itu?</blockquote><br />
+Satu hal ini mudah untuk kita temukan dan pasti ada dalam diri kita masing-masing. Satu hal ini tak lain dan tak bukan adalah “PERJUANGAN”. Ya, perjuangan, sebuah hal yang memang pantas untuk dikagumi, terutama perjuangan di jalan kebaikan.<br /><br />
+Setiap manusia yang menjalani kehidupannya di dunia ini, pastilah memiliki dan mengalami perjuangan. Walau dalam perjuangannya itu berbeda-beda, akan tetapi pada akhirnya tujuannya sama, yaitu demi mencapai kebahagiaan di dunia dan akhirat.<br />
+<blockquote class="tr_bq">Lalu mengapa harus mengagumi perjuangan?</blockquote><br />
+Karena perjuangan adalah sebuah awal, ya awal, dalam meretas atau meraih keberhasilan. Tidak dilakukan dengan mudah, tapi dengan usaha, kerja keras, dan diringi dengan jatuh bangun (kegagalan).<br /><br />
+Seperti misalnya saat akan mendaki gunung yang tinggi, untuk mencapai puncaknya tentu perlu perjuangan dan persiapan yang matang. Dan untuk sampai di puncaknya, tak selalu menemui jalan yang mulus, tapi juga beberapa hambatan seperti cuaca buruk, hewan buas, atau jurang yang dalam. Demi keinginan untuk dapat sampai di tujuan, jelas beberapa hambatan itu bukan menjadikan diri kita untuk menyerah. Allah SWT telah menciptakan kita dengan akal, dan dengan akal itu kita akan mampu memperoleh solusi. Solusi untuk melewati hambatan tersebut.<br /><br />
+Dan ketika kita mampu untuk sampai dan berdiri di atas puncak, jangan pernah lupa bagaimana perjuangan atau keadaanmu di masa lalu. Karena masa lalu adalah sebuah pembelajaran di masa depan. Tanpa masa lalu, kita tidak akan mampu untuk menjadi diri kita yang berdiri di masa sekarang.<br /><table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-left: 0px; margin-right: 0px; text-align: left;"><tbody><tr><td style="text-align: center;"><img alt="Mengagumi Perjuangan" border="0" src="https://4.bp.blogspot.com/-ahVKYOFdeQ4/VAvgVKYa-DI/AAAAAAAAEww/3dpEJMrmiDc/s1600/mengagumi_perjuangan.png" style="margin-left: auto; margin-right: auto;" title="Mengagumi Perjuangan" /></td></tr><tr><td class="tr-caption" style="text-align: center;"><b>Foto :</b> Seorang nenek yang sedang menggendong wadah berisi air bersih.</td></tr></tbody></table></div>

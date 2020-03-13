@@ -1,0 +1,13 @@
++++
+title = "NgeShare - Pasca Ujian Nasional"
+date = 2014-04-17T23:14:00Z
+tags = ["ocehanku"]
+comments = true
++++
+
+<center><img border="0" data-original-height="600" data-original-width="800" src="https://2.bp.blogspot.com/-3WI_8mGkL-4/W-y5a-Z3yQI/AAAAAAAASRc/xRQeI6hLgOslrHM8LMm8fpQ4ZPQls_pggCLcBGAs/s1600/ujian.jpg" /></center><br />
+<div style="text-align: justify;">"Ujian Nasional, Ujian Nasional, Ujian Nasional...alhamdulillah telah berakhir. Kini tinggal kunanti hasil baik dari apa yang telah ku usahakan di tiga hari tersebut." Mungkin inilah yang kamu pikirkan setelah selesai mengikuti UN, iya gak? Kalau saya sih iya, saya bisa berpikir begini karena saya juga ikut UN kemarin (14/04/2014), hehe...<br /><br />
+Banyak dari teman-teman saya juga sepertinya memikirkan hal yang sama. Dan saya yakin kalau pasca UN itu kebanyakan dari peserta UN pasti merasa bahagia. Walau ada beberapa yang juga merasa cemas dengan hasil yang mereka kerjakan, terlebih untuk mapel hari terakhir. Jujur saja selain bahagia, saya sendiri juga cemas, karena saya merasa soalnya memang sulit. Entah ini karena saya yang salah atau karena tingkat kesulitan soalnya yang tinggi. Entahlah yang jelas ini tidak hanya saya yang merasakan. Dan gak heran kalau banyak yang komplen mengenai UN 2014 di sosmed, tapi saya yakin kebanyakan dari mereka dan kamu pasti merasa bahagia.<br /><br />
+Ya bahagia, maklum kalau UN udah selesai jadwalnya kan tinggal istirahat, istirahat dan istirahat. Ngumpulin energi lagi, setelah 3 hari terkuras tenaga dan pikiran. Ngerefresh pikiran setelah pusing dengan rentetan rumus, angka dan kalimat. Bisa tidur tepat waktu setelah tidur larut malam terus. Bisa bangun agak kesiangan setelah bangun pagi-pagi terus (haha...). Tiba di rumah bisa lebih santai-santai gak langsung belajar. Dan terbebas dari tugas sekolah tentunya.<br /><br />
+Ya mungkin itu yang membuat kebanyakan dari peserta UN bahagia, jujur saja saya juga demikian. Tapi ya ingat jangan merasa bahagia dulu dengan semua itu. Istirahat dan santai itu memang perlu, namun secukupnya itu lebih baik. Tidak berlebihan, karena berlebihan hanya akan membuatmu lengah, dan lengah sedikit saja dapat berakibat fatal.<br /><br />
+Dan hasil dari UN sendiri masih belum keluar. Kita masih harus terus berusaha dan tawakal. Bukan hanya berusaha dan tawakal ketika menghadapi UN, tapi hingga akhir dari hidupmu. Memohon selalu yang terbaik pada Tuhan Yang Maha Esa, karena segala kebaikan tentu berasal dari-Nya. Ujian Nasional memang sudah selesai, namun tetaplah ingat bahwa ujian kehidupan itu masih akan terus berlanjut. Tetap semangat dan tawakal, semoga hasil yang baik dapat kita raih, amin...</div>

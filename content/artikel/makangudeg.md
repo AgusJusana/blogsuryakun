@@ -1,0 +1,12 @@
++++
+title = "Ngeshare - Makan Gudeg di Jogja, Goceng Saja Cukup"
+date = 2015-09-10T14:59:00Z
+tags = ["ocehanku"]
+comments = true
++++
+
+<div style="text-align: justify;">Yup, sekali makan cuma keluar goceng alias lima ribu rupiah alias <i>mangewu</i> saat ini semakin jarang ditemui di Jogja (Jogja kota dan sekitarnya, mungkin kalau di wilayah pinggiran masih mudah dijumpai sih). Gudeg salah satunya, makanan yang menjadi ikon Jogja ini biasanya dijual diatas 5 ribuan. Tergantung lauknya yang dipilih, minimal ditambah telur lah pengalaman saya paling tidak harganya 6 ribuan ke atas.<br />
+<center><img border="0" src="https://2.bp.blogspot.com/-m1giE3tLqXc/VfIIR8TT47I/AAAAAAAADcg/lRWgtaCDvL4/s1600/image4198.png" /></center><br />
+Berbeda dengan gudeg di warung sebelah barat SDN Sinduadi 1 (koordinatnya sekitar -7.7614408, 110.3636735), seperti yang nampak pada gambar peta di atas. Saya mendapatkan paket ekonomis seharga goceng. Tentu hal ini menjadi sebuah oase yang menggembirakan anak kos seperti saya yang setiap harinya mesti berpikir keras untuk mengatur pengeluaran. Apa lagi sih yang bisa ditekan jumlahnya kalau bukan pengeluaran untuk makan.<br /><a name='more'></a><br />Di warung mbah yang saya sampai sekarang belum pernah tanya namanya ini (iya, saya sudah hampir 2 tahun langganan tapi ga pernah tanya nama pemiliknya -_-) setiap pagi saya memesan gudeg + 1 telur rebus utuh (utuh gaes, utuh), dan itu saya dapatkan seharga goceng.<br />
+<center><img border="0" src="https://3.bp.blogspot.com/-PdpJg5-nsSw/VfIIEW2ib7I/AAAAAAAADcY/1viXx9QVqUQ/s1600/gudeg.jpg" /></center><br />
+Nangka mudanya memang tidak seberapa jumlahnya, tapi dengan menyertakan telur itu seolah menjadi kemewahan tersendiri terutama bagi anak kos seperti saya. Trus minumnya gimana? Air putih saja, sehat di badan dan sehat di kantong :D.<br /><br />Sebenarnya warung mbahnya ini tidak menspesialisasikan diri menjadi warung gudeg karena berbagai menu lain juga tersedia. Kalau <i>sampeyan</i> berminat mencoba paket ekonomis ini saya sarankan <i>ngomongnya </i>: pakai gudeg dan telur, jangan tambah lauk lainnya karena akan ikut <i>mengerek</i> harga juga :D.<br /><br />Di tengah situasi politik, sosial, ekonomi, dan hankam yang seolah tak pernah habis kegaduhannya saat ini serta ditambah pula nilai tukar Rupiah terhadap Dollar yang semakin <i>ngenes</i>, bisa menemukan menu ekonomis seperti ini memang menjadi suatu kenikmatan tersendiri.</div>

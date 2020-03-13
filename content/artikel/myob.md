@@ -1,0 +1,9 @@
++++
+title = "NgeShare - Tahapan Bekerja Dengan MYOB"
+date = 2013-08-18T21:39:00Z
+tags = ["tutorial", "teknologi"]
+comments = true
++++
+
+<center><img border="0" height="187" src="https://2.bp.blogspot.com/-uW9BXZNKhr0/UhDcTiKO-GI/AAAAAAAAC8Q/qYrDYllXJRE/s400/MYOB_logo.png" width="400"></center><br />
+<div style="text-align: justify;">Dalam memulai proses kerja menggunakan <a href="http://myobindonesia.wordpress.com/2009/02/18/download-myob-accounting-versi-18/">MYOB</a>, Anda diharuskan untuk mengetahui beberapa tahapan atau langkah-langkah dalam pengoperasian MYOB. Agar apa yang Anda kerjakan dengan MYOB dapat membuahkan hasil yang baik dan terhindar dari kesalahan. Untuk itu kali ini saya ingin membagi beberapa tahapan untuk memulai proses kerja dengan MYOB yang sekiranya dapat bermanfaat bagi Anda. ^_^<br /><a name='more'></a><br /><ol><li>Buka program MYOB</li><li>SetUp awal MYOB, lakukan SetUp awal identitas perusahaan</li><li>Merancang daftar akun, pilih sesuai kriteria dan kebutuhan</li><li>Merancang linked account sesuai kebutuhan transaksi (ada tiga tempat, yaitu: link di <b>account list</b>, <b>tax list</b> dan <b>item list</b>)</li><li>Seting kode pajak sesuai kebutuhan</li><li>Seting tentang syarat pembayaran yang berlaku jika berlaku kebijakan syarat (<b>terms</b>) yang sama baik dalam salles maupun purchases</li><li>Input saldo awal neraca</li><li>Merancang daftar customer</li><li>Input saldo piutang</li><li>Merancang daftar suplier</li><li>Input saldo utang</li><li>Merancang item list</li><li>Input saldo persediaan: kuantitas dan harga pokok</li><li>Mulai input transaksi</li><li>Selama proses pencatatan transaksi dimungkinkan akan terjadi perubahan terkait dengan linked akun sesuai dengan kebijakan pembukuan perusahaan</li></ol><br />Semua langkah-langkah di atas harus disesuaikan dengan sistem pembukuan yang berlaku dalam perusahaan. Apakah perusahaan menerapkan sistem pencatatan perpetual ataukah periodik.</div>

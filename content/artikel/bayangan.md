@@ -1,0 +1,8 @@
++++
+title = "NgeShare - Bayangan Semata"
+date = 2016-08-23T06:24:00Z
+tags = ["ocehanku"]
+comments = true
++++
+
+<center><img border="0" data-original-height="600" data-original-width="1200" src="https://2.bp.blogspot.com/-NsGo7RbANm4/XDUofkHCtCI/AAAAAAAASyI/qweTXhDaN8wIMsntSeSNCS1y_wCCHnPhgCLcBGAs/s1600/story.png" /></center><br /><div style="text-align: justify;">Suatu hari ketika sedang menunggu kawan di pinggir jalan karena sedang ada urusan, tak sengaja aku melihat seorang perempuan. Perempuan yang terlihat seperti mahasiswi yang tengah berdiri di depanku sambil kulihat ia sedang menatap ke seberang jalan. Ke seberang jalan yang kemudian kusadari ternyata di sana telah banyak berkumpul para pedagang penjual makanan. Lalu aku kembali melihat perempuan itu tadi, bukan karena terlalu terpesona akan parasnya yang memang kuakui cantiknya, namun karena kulihat raut wajahnya yang sepertinya tengah dalam pengharapan yang memandang ke arah para pedagang. Lantas kemudian aku hubungkan tentang bagaimana raut wajah dan tujuan pandangannya itu, dan aku pun mulai menyimpulkan bahwa mungkin ia tengah dalam rasa lapar dan ingin membeli beberapa makanan. Melihatnya, melihat raut wajahnya, aku merasa terbawa, seakan-akan aku merasakan apa yang dia rasa, mungkin jodoh, ah, jangan berandai-andai yang bukan-bukan. Aku tentu sadar diri, aku hanya merasa, merasa lapar sepertinya juga. Ingin rasanya aku membeli panganan yang ada di seberang jalan sana juga, lebih-lebih lagi membelikan perempuan yang kulihat di depanku itu. Namun apalah daya jika uang tak ada, itu semua hanya jadi bayangan semata. (hehehe...)</div>

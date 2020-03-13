@@ -1,0 +1,17 @@
++++
+title = "NgeShare - Jualan Tahu Bulat"
+date = 2016-05-27T09:51:00Z
+tags = ["game"]
+comments = true
++++
+
+<center><img border="0" data-original-height="600" data-original-width="1200" src="https://3.bp.blogspot.com/-A1otjC0bIAY/XDUjFI27J4I/AAAAAAAASxg/qxhHCOQr8j4q4fcorKLyAkRyN_ozEFEyACLcBGAs/s1600/game.png" /></center><br />
+<div style="text-align: justify;">Wah...bener-bener gak nyangka nih, kemarin sempet rame di meme comic, eh nggak taunya sekarang udah rame juga di Play Store, di posisi lima besar pula!<br />
+<blockquote class="tr_bq" style="text-align: justify;">Emang lagi ngomongin apaan sih, Min?</blockquote><br />
+Hehehe...ane lagi ngomongin "Tahu Bulat" gan, pernah denger kan nama itu? Pasti udah! Yaps, Tahu Bulat merupakan nama makanan khas dari Tasikmalaya. Makanan tersebut sekarang lagi ngehits, selain karena tampilannya yang beda dari makanan lainnya, cara penjualannya unik juga, apalagi dengan cara promosinya yang menggunakan mobil disertai dengan suara rekaman khas penjual Tahu Bulat yang bertujuan menarik perhatian calon pembeli. "Tahu bulat, digoreng dadakan, lima ratusan, gurih-gurih nyoi....", kira-kira begitulah bunyinya, hehehe...<br /><br />
+Nah, dengan keunikannya tersebut membuatnya tak lepas dari ketertarikan para netizen untuk menjadikannya sebagai sebuah bahan hiburan di dunia maya, salah satunya di meme comic. Namun, berkat itu, kini popularitas dari Tahu Bulat kian meroket, sampai-sampai muncul gamenya lho. Ya, beberapa waktu yang lalu telah dirilis game Tahu Bulat di Play Store yang dibuat oleh developer lokal asal Bandung, bernama <a href="http://www.own-games.com/about.php" target="_blank">Own Games</a>.<br />
+<center><img border="0" src="https://1.bp.blogspot.com/-n2djsYjlYiU/V0e0YrgxBLI/AAAAAAAAM9k/-nIR1l2iq-0RrlONqzOBq2rkEaDdWR9xgCLcB/s1600/Screenshot_2016-05-27-08-20-42_com.owngames.tahubulat.png" /></center><br />
+Dengan memanfaatkan kepopuleran dari Tahu Bulat, game yang dibuat oleh Own Games ini berhasil menarik perhatian para gamers, terutama gamers yang menggunakan platform Android. Bahkan saat ini game Tahu Bulat udah ada di Top New Free Google Play Store Indonesia lho, ini buktinya, udah mau ngalahin COC nih, hehe...<br />
+<center><img border="0" src="https://4.bp.blogspot.com/-FFQ5tyODV28/V0e0sK8JujI/AAAAAAAAM9s/O19zGt_fdnQkYBAg7hVJcDFQjtzNR-GrwCLcB/s1600/Screenshot_2016-05-27-08-10-10_com.android.vending.png" /></center>Game Tahu Bulat ini mengajak pemainnya untuk merasakan sensasi menjadi penjual dan membangun bisnis Tahu Bulat. Untuk memainkan game ini tergolong mudah (kalau menurut saya). Pemain hanya perlu menekan layar smartphone saat menjalankan game ini. Setiap kali kamu menyentuh layar, akan terdengar suara rekaman penjual Tahu Bulat yang khas, dengan suara tersebut akan datang para pembeli. Semakin cepat kamu menekan layar, akan semakin banyak dan cepat pula pembeli yang datang. Dengan banyaknya pembeli yang berdatangan, kamu akan memperoleh uang yang dapat digunakan untuk mengembangkan bisni Tahu Bulatmu di game ini. Kalau udah begitu, bikin greget juga nih, seru pula kalau dimainin pas waktu luang.<br />
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/XycYaYxD6FI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+Gimana kamu tertarik buat main game ini? Kalau iya, yuk langsung download aja di Play Store, gratis lho! :D</div>

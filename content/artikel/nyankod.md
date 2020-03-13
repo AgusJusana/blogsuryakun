@@ -1,0 +1,17 @@
++++
+title = "NgeShare - Yuk Kenalan dengan Dunia Pemrograman Bersama Majalah Nyankod"
+date = 2012-08-02T19:54:00Z
+tags = ["karya Indonesia", "teknologi"]
+comments = true
++++
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-left: 0px; margin-right: 0px; text-align: left;"><tbody><tr><td style="text-align: center;"><img src="https://1.bp.blogspot.com/-oUSU2dz57M0/UAFrWQlHZyI/AAAAAAAAECY/Ui_VeVCBTlM/s1600/Selection_330.png" style="margin-left: auto; margin-right: auto;" /></td></tr><tr><td class="tr-caption" style="text-align: center;">Halaman Situs Nyankod</td></tr></tbody></table><br />
+<div style="text-align: justify;">Zaman sekarang mulai gencar-gencarnya para wong alias orang yang mengerti IT ingin menjajal atau menjadi seorang tukang coding atau progammer. Walaupun dunia coding dinilai cukup sulit kalau saya bagi saya itu sangat-sangat sulit, coding tetap memiliki banyak peminat (yah, meskipun kebanyakan berhenti di tengah jalan).<br /><br />
+Dalam proses pembelajarannya pun coding dinilai sangat sulit, bayangkan dari buku pembelajarannya saja tebalnya minta ampun, kebanyakan berbahasa Inggris dan kebanyakan yang berbahasa Inggris itulah yang sangat lengkap. Kalo orang yang bahasa Inggrisnya pas-pasan pasti sangat mumet kalo mau belajar pake buku tersebut, apalagi code codingannya yang begitu mbruwet seperti bahasa Alien.<br /><br />
+Baiklah, mari kita lupakan sejenak penderitaan tersebut. Untungnya, ada sebuah komunitas di Indonesia yang membuat belajar pemrograman menjadi menyenangkan, bahkan untuk pemula sekalipun. Perkenalkan "Nyankod();". Setiap bulannya, nyankod(); mengeluarkan buletin PDF yang membahas isu-isu seputar bahasa pemrograman terutama masalah syntax.<br />
+<blockquote class="tr_bq">Gan bukannya udah banyak situs atau buku yang membahas masalah kayak gini?</blockquote><br />
+Iya benar, tapi yang membuat nyankod(); beda adalah gaya penyampaiannya yang tidak membosankan, membumi, pendekatan analogi (terutama makanan).<span style="color: #0b5394;"><b> </b></span>Berikut beberapa contoh gaya bahasa penyampaian di buletin nyankod();<br />
+<center><img border="0" data-original-height="563" data-original-width="957" src="https://1.bp.blogspot.com/-Zhs84TOQkIY/W-uCWJfwoZI/AAAAAAAASNE/J2vz6LT5jWMwByIJO-dmP-4Za_vqYvGWwCLcBGAs/s1600/nyankod.jpg" /></center><br />
+Belajar pemrograman itu ibarat minum obat, kalau nggak cocok takarannya bisa berakibat fatal. Belum lagi terkait masalah waktunya, harus setelah makan, sebelum tidur, 3 kali sehari. Ya, kurang lebih seperti itulah pemrograman, kalau takarannya nggak pas, bisa-bisa kepala jadi migren, dada jadi sesak, hidung jadi mampet, kuping jadi budeg, kantong pun jadi kering. Nah, supaya nggak menimbulkan efek samping yang nggak diharapkan saat belajar pemrograman, disini Nyankod mencoba menghidangkan pemrograman dengan dosis yang telah diukur secara cermat. Ya inilah dia nyankodMagz edisi pertama. Sebuah buletin pemrograman yang dikemas dengan nggak kaku, sehingga terasa pulen saat mengkonsumsinya.<br /><br />
+Ya, pengurusnya pun masih tergolong muda gan, jadi cocok untuk kalian yang berjiwa muda, baiklah saya ganti kalimatnya, jadi cocok untuk kita-kita yang berjiwa muda. 😂<br /><br />
+Sampai saat ini, nyankod(); sudah menerbitkan beberapa edisi buletin yang bisa kalian unduh dengan <a href="https://www.codepolitan.com/tag/nyankodmagz" target="_blank"><b><span style="color: #0b5394;">di sini</span></b></a>. 😄</div>

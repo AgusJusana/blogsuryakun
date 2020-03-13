@@ -1,0 +1,9 @@
++++
+title = "NgeShare - Nostalgia"
+date = 2016-08-07T10:15:00Z
+tags = ["ocehanku"]
+comments = true
++++
+
+<div style="text-align: justify;">Di rumah pagi ini, kutemukan sesuatu yang telah lama tak kupandangi. Beberapa kumpulan kaset pita yang masih tersimpan rapi di dalam lemari, yang entah mengapa mereka masih ada di sini, meski waktu telah lama menggantikannya. Lantas, kutanyakan kepada ibu, mengapa ia masih menyimpannya. Dan ternyata jawabnya, ibu sesekali masih menggunakannya sebagai penghibur hati, terlebih ketika lelah menghampiri atau ketika suasana mulai terasa sepi. Ya, begitulah jawabnya, yang seketika membuat aku penasaran apakah mereka semuanya masih berfungsi? Lalu kucoba perdengarkan satu persatu melalui radio tape yang ibu miliki, dan ternyata semuanya masih terdengar jelas berharmoni, masih terasa nyaman merdunya, masih mampu untuk menyenangkan hati. Tak kusangka meski telah lama, masih dapat memberiku kehangatan yang sedari dulu atau mungkin tak pernah ku rasakan. Merasa bersalah, tentu, aku merasa bersalah karena sebelumnya mempertanyakan tentang keberadaan benda yang telah lalu ini. Aku tak menyadari bahwasannya dari yang telah lalu ini, masih ada kegembiraan dan kesetiaan yang mengagumi...<br /><br /><img border="0" src="https://4.bp.blogspot.com/-xU3Y65OKYE8/V6ShESqAxaI/AAAAAAAAOJ0/tStYOm_8WRIIgzp58T6tafD_IrT8sYjfACLcB/s1600/IMG_20160726_081903-01.jpeg" /><br /><blockquote class="tr_bq">Kau memang telah menua dan mungkin telah dilupa, namun karenamu ada, aku masih dapat menikmati merdunya suara.</blockquote><br />
+<iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277167795&amp;color=ff5500&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%"></iframe></div>

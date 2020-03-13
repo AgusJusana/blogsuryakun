@@ -1,0 +1,11 @@
++++
+title = "NgeShare - Cara Cut, Copy dan Paste di Terminal"
+date = 2015-12-12T21:15:00Z
+tags = ["tutorial", "linux"]
+comments = true
++++
+
+<center><img border="0" data-original-height="600" data-original-width="1200" src="https://1.bp.blogspot.com/-p0bu6RTnbL4/XFzfYcJgLEI/AAAAAAAATHY/JgMWo7oi_9UBWQ66pL5_AkCEy1grxYZ-gCLcBGAs/s1600/terminal.png" /></center><br />
+<div style="text-align: justify;">Ini adalah sebuah tutorial sederhana mengenai cara Cut, Copy, dan Paste pada terminal. Tutorial berikut ini sangat sederhana dan mungkin beberapa dari kamu sudah sangat familliar dengan isi dari tutorial ini. Tetapi mungkin ada juga beberapa di antara kamu yang belum mengetahuinya, khususnya jika kamu baru mengenal atau memakai linux, dan sedang menjalankan program terminal. Perlu diketahui bahwa program terminal biasanya digunakan untuk menginstall atau menjalankan program baru pada sistem operasi Linux, so tutorial ini pasti nantinya akan sangat membantu. Nah, untuk itu saya pada kesempatan kali ini akan mengenalkannya, hehe...<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img border="0" src="https://4.bp.blogspot.com/-g96gP6xEaiA/VmwryTo0ajI/AAAAAAAAJKk/e0MkLO2BJxs/s1600/copy.png" /></td></tr><tr><td class="tr-caption" style="text-align: center;">Tampilan Terminal di sistem operasi linux.</td></tr></tbody></table><br />
+Pada umumnya kita mengenal bahwa pada beberapa aplikasi, untuk melakukan perintah Cut, Copy dan Paste selalu digunakan tombol perintah Ctrl+X, Ctrl+C dan Ctrl+V. Tetapi tombol perintah tersebut sama sekali tidak berguna ketika kamu sedang menjalankan terminal pada Linux, justru jika kamu menekan tombol perintah Ctrl+C itu akan membatalkan perintah yang akan kamu jalankan, istilahnya sih seperti proses Cancel. Lalu bagaimana jika ingin melakukan perintah Cut, Copy dan Paste di Terminal? Untuk dapat melakukannya gampang, kamu hanya tinggal menekan tombol <b>Ctrl+Shift+X</b> untuk <b>Cut</b>, <b>Ctrl+Shift+C</b> untuk <b>Copy</b>, dan <b>Ctrl+Shift+V</b> untuk melakukan perintah <b>Paste</b> di Terminal. Nah, gampang dan simple kan caranya? Semoga bermanfaat ya...😁</div>

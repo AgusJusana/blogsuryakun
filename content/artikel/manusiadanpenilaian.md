@@ -1,0 +1,17 @@
++++
+title = "NgeShare - Manusia dan Penilaian"
+date = 2013-01-10T04:40:00Z
+tags = ["ocehanku"]
+comments = true
++++
+
+<center><img border="0" data-original-height="600" data-original-width="1200" src="https://1.bp.blogspot.com/-VPlV6UecGfE/XNsxXrDlp2I/AAAAAAAATrk/wHIL1T_1Czgvj5cu8lRUuy91nmtVTzcRACLcBGAs/s1600/penilaian.png" /></center><br />
+<div style="text-align: justify;">Pada dasarnya setiap manusia yang hidup itu tidak jauh dari apa yang dinamakan penilaian. Penilaian itu dimulai dari seorang manusia lahir ke dunia. Walaupun masih bayi, seorang bayi tersebut pasti mendapat penilaian dari orang-orang sekitar yang melihatnya. Penilaian terhadap bayi ini salah satu contohnya adalah mengenai fisik bayi tersebut.<br /><br />
+Penilaian tersebut kemudian meningkat saat si bayi mulai tumbuh, kemudian menuju fase yang dinamakan fase anak-anak balita, lalu meningkat lagi ke fase anak-anak remaja. Di fase remaja inilah seorang manusia mendapati penilaian yang beraneka ragam. Mulai dari penilaian cara dia bergaul, penilaian cara dia berbicara, penilaian cara dia berpakaian, dll.<br /><br />
+Penilaian terhadap manusia itu memang kebanyakan tidak kasat mata atau tidak tertuang pada selembar kertas yang berisi angka-angka yang ditulis oleh si penilai. Penilaian yang dapat kita rasakan dan kita peroleh secara nyata salah satu contohnya adalah di sekolah. Di sekolah kita tertuju pada sebuah tujuan utama yaitu belajar. Pastinya Anda yang pernah sekolah menyadari apa patokan kita ketika telah berhasil menyelesaikan sebuah proses pembelajaran, apakah patokannya adalah penilaian?<br /><br />
+Ketika kita hidup kemudian menuju takdir yang tak dapat luput dari semua manusia yaitu kematian, manusia senantiasa memperoleh penilaian dari Allah SWT. Proses penilaian ini memang tidak nampak dalam mata manusia, namun keberadaannya sangatlah dibenarkan. Bayangkan saja ketika manusia itu meninggal, apakah dia akan langsung masuk Surga atau malah langsung masuk Neraka? Hal tersebut tergantung dari penilaian amalannya ketika hidup di dunia. Kita sebagai seorang Muslim diwajibkan untuk mempercayai adanya dua malaikat yang senantiasa mengawasi dan mengikuti kita di manapun kita berada. Kedua malaikat&nbsp;<b>(Malaikat Raqib dan Malaikat Atid)</b>&nbsp;tersebut senantiasa hadir dalam kehidupan kita dengan tugas mencatat segala tindakan atau perbuatan kita selama kita hidup di dunia. Hal tersebut sesuai dengan firman ALlah SWT,<br />
+<b>لَهُ مُعَقِّبَاتٌ مِنْ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ يَحْفَظُونَهُ مِنْ أَمْرِ اللَّهِ إِنَّ اللَّهَ لا يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُوا مَا بِأَنْفُسِهِمْ وَإِذَا أَرَادَ اللَّهُ بِقَوْمٍ سُوءًا فَلا مَرَدَّ لَهُ وَمَا لَهُمْ مِنْ دُونِهِ مِنْ وَالٍ<br />
+Artinya:<br />
+<i>"Bagi manusia ada malaikat-malaikat yang selalu mengikutinya bergiliran, di muka dan di belakangnya, mereka menjaganya atas perintah Allah. Sesungguhnya Allah tidak merobah Keadaan sesuatu kaum sehingga mereka merobah keadaan yang ada pada diri mereka sendiri. dan apabila Allah menghendaki keburukan terhadap sesuatu kaum, Maka tak ada yang dapat menolaknya; dan sekali-kali tak ada pelindung bagi mereka selain Dia."</i><br />
+(QS. Ar-Ra'd: 11).<br /><br />
+Dari penjelasan yang saya tuliskan pada artikel ini, saya hanya mengingatkan pada diri saya khususnya dan pada Anda pada umumnya bahwa <i>manusia itu hidup selalu berkaitan dengan sebuah penilaian mulai dari ia diLAHIRkan hingga ia menuju takdir yang akan dialami oleh semua manusia, yaitu KEMATIAN.</i></div>

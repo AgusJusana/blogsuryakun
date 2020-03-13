@@ -1,0 +1,22 @@
++++
+title = "NgeShare - Software Office Untuk Android"
+date = 2012-09-14T11:20:00Z
+tags = ["teknologi"]
+comments = true
++++
+
+<center><img border="0" src="https://3.bp.blogspot.com/-Ni6tegXKuvA/UFKwabIsU7I/AAAAAAAADII/edmerWwNgfg/s1600/microsoft-office-for-android.jpg" /></center><br />
+<div style="text-align: justify;">Semakin lama Smartphone semakin digandrungi. Hal ini disebabkan karena manfaatnya yang luar biasa, mulai dari hiburan hingga untuk membantu pekerjaan. Kadang kala seorang pemilik smartphone menggunakan smartphone dalam proses bekerjanya. Untuk melakukan hal tersebut, pemilik smartphone membutuhkan sebuah aplikasi perkantoran baik yang gratis ataupun berbayar. Dengan aplikasi perkantoran tersebut, Anda bisa mengedit sebuah dokumen, membuat dokumen baru ataupun mengirimnya secara langsung melalui email. Berikut ini terdapat lima aplikasi Office dengan fitur yang cukup lengkap untuk Android. Berikut ini kami sajikan beberapa software office yang dapat Anda gunakan di smartphone Anda.<br /><br />
+<b>1. <a href="https://play.google.com/store/apps/details?id=com.dataviz.docstogo"><span style="color: #0b5394;">Documents To Go</span></a></b><br />
+<center><img border="0" src="https://1.bp.blogspot.com/-SY37R9Q3I-k/UFJh4LHVD6I/AAAAAAAADGw/9Xdx6aK81no/s1600/unnamed.jpg" /></center><br />
+Documents To Go merupakan aplikasi Android dengan fitur standar, untuk membaca sebuah dokumen. Format yang bisa didukung oleh Documents To Go antara lain adalah Word, Excel, PowerPoint serta Attachment. Dan, jika Anda ingin mengedit dokumen, Anda pun bisa mengunduh <a href="https://play.google.com/store/apps/details?id=com.dataviz.docstogoapp">versi berbayar</a> dari aplikasi ini dengan harga $14.49 USD.<br /><br />
+<b>2.&nbsp;<a href="https://play.google.com/store/apps/details?id=cn.wps.moffice_eng"><span style="color: #0b5394;">Kingsoft Office</span></a></b><br />
+<center><img border="0" src="https://3.bp.blogspot.com/-Y3qxmjeGGiw/UFKuAQCPUlI/AAAAAAAADHg/aLKPR44qSxk/s1600/unnamed+(1).jpg" /></center><br />
+Aplikasi ini merupakan aplikasi office dengan fitur premium yang bisa diunduh secara gratis. Kingsoft Office memiliki fitur seperti editing, copy, cut, paste serta berbagai jenis format penulisan, dari font, bold, header, footer dan lain-lain. Bahkan Anda juga bisa lekaukan editing gambar, text box, formula dan lain-lain yang disisipkan ke dalam dokumen.<br /><br /><b>3. <a href="https://play.google.com/store/apps/details?id=com.olivephone.edit"><span style="color: #0b5394;">Olive Office</span></a></b><br />
+<center><img border="0" src="https://4.bp.blogspot.com/-eM4Bncx6QoU/UFKuTNLz0AI/AAAAAAAADHo/HJdzTbRtRKE/s1600/unnamed+(2).jpg" /></center><br />
+Olive Office ini terbilang sebagai aplikasi office dengan fitur yang lengkap meskipun bisa diunduh secara gratis. Aplikasi ini bisa mendukung edit dokumen dengan format Word, Excel dan PowerPoint. Selain itu, aplikasi ini pun dapat digunakan untuk membuka dokumen dengan format PDF, cham dan mht.<br /><br /><b>4. <a href="https://play.google.com/store/apps/details?id=com.mobisystems.editor.office_registered"><span style="color: #0b5394;">Office Suite Pro 6</span></a></b><br />
+<center><img border="0" src="https://1.bp.blogspot.com/-RUDnak_XJrs/UFKug9nI0jI/AAAAAAAADHw/SjekTbT0HgM/s1600/unnamed+(3).jpg" /></center><br />
+Aplikasi ini merupakan sebuah aplikasi berbayar dengan fitur yang lengkap. dengan aplikasi berbayar dari Office Suite Pro 6 ini, Anda bisa menambahkan header, footer serta nomor halaman pada dokumen word. Kalau Anda hanya ingin menampilkan dokumen, Anda pun bisa mengunduh versi gratisnya, yakni <a href="https://play.google.com/store/apps/details?id=com.mobisystems.office">Office Suite Viewer</a>.<br />
+<b>5.&nbsp;<a href="https://play.google.com/store/apps/details?id=com.qo.android.am3"><span style="color: #0b5394;">Quickoffice</span></a></b><br />
+<center><img border="0" src="https://3.bp.blogspot.com/-xtWT3RwJ1WE/UFKu0gQrtKI/AAAAAAAADH4/uaj9_PsFRvs/s1600/unnamed.png" /></center><br />
+Aplikasi ini tersedia dalam dua versi, yakni gratis dan berbayar. Quickoffice ini pun merupakan aplikasi office yang banyak digunakan oleh para pengguna handphone Android. Keunggulan dari aplikasi ini adalah harganya yang murah dan memiliki ukuran file yang tidak besar. Aplikasi ini pun bisa membaca serta mengedit dokumen dengan berbagai format file, seperti excel, word, powerpoint, zip, PDF serta attachment. </div>

@@ -1,0 +1,41 @@
++++
+title = "NgeShare - Membuat Wifi Sendiri di Xubuntu 17.04"
+date = 2017-06-26T14:32:00Z
+tags = ["tutorial", "linux"]
+comments = true
++++
+
+<center><img border="0" data-original-height="600" data-original-width="1200" src="https://2.bp.blogspot.com/-v1jvfyRE0aQ/XEunJHxNGeI/AAAAAAAAS_g/D1zbIdqQeeY2wnYlskGl5j-0fn3EQ5-fQCLcBGAs/s1600/wifi.png" /></center><br />
+<div style="text-align: justify;">Beberapa hari yang lalu saya baru saja mencoba Xubuntu 17.04 yang sebenarnya telah rilis sekitar dua bulan yang lalu, yaitu pada bulan April. Mungkin ini kesannya kudet, alias kurang kurang update, tapi ya maklum saja karena dulunya saya masih terlalu nyaman dengan versi sebelumnya, yaitu versi 16.04 yang sudah saya custom di sana-sini. Namun, seiring dengan berjalannya waktu, ketidaknyamanan mulai menghampiri dan memaksa saya untuk akhirnya move on ke versi terbarunya. Berdasarkan rekomendasi dari kakak saya yang juga seorang pengguna Linux, tetapi ia lebih expert, akhirnya saya benar-benar beralih ke versi terbarunya dari Xubuntu.<br /><br />
+Well, setelah menginstall dan menggunakan Xubuntu versi terbaru ini, ya wajarlah, saya mendapati beberapa pembaruan di dalamnya, mulai dari user interfacenya, kernel Linux 4.10, hingga hadirnya swapfile. Tapi dari sekian banyak pembaruan yang ada di versi terbarunya ini, terdapat satu hal baru yang sangat menarik perhatian saya. Hal baru itu adalah fitur wifi yang memungkinkan pengguna untuk membuat sinyal wifi sendiri dari modem yang digunakannya. Sebenarnya fitur ini sudah dapat digunakan pada versi sebelumnya, akan tetapi untuk memunculkannya harus melalui langkah-langkah yang sangat njelimet (ribet), terlebih untuk pemula seperti saya ini.<br /><br />
+Pada Xubuntu 17.04 ini, jika pengguna ingin mengubah modemnya menjadi wifi, dapat dengan mudah melakukannya. Bagaimana cara untuk menggunakannya? Oke, perhatikan langkah-langkah yang akan saya berikan berikut ini.<br />
+1. Langkah pertama yang harus dilakukan, yaitu pastikan modem yang akan digunakan telah terpasang dan terinstall.<br />
+2. Jika modem telah terpasang dan terinstall, lalu install dnsmasq dengan memasukkan perintah di bawah ini ke terminal.<br />
+<pre><code>sudo apt install dnsmasq</code></pre><br />
+3. Ketika proses install selesai, masukkan perintah berikut ini.<br />
+<pre><code>sudo nano /etc/dnsmasq.conf</code></pre><br />
+4. Setelah memasukkan perintah di atas ke dalam terminal, akan muncul tampilan seperti di bawah ini.<br />
+<center><img border="0" data-original-height="407" data-original-width="581" src="https://2.bp.blogspot.com/-ftbWNYwWhsc/WVCz2_yCvNI/AAAAAAAAQ_c/EfUgIhrc3QUNGt6TijDa7vv31G4vq9NmwCLcBGAs/s1600/035.png" /></center><br />
+5. Pada tampilan di atas masukkan kode <b>dhcp-range=10.10.0.20,10.10.0.30,12h</b> di bagian paling atas seperti pada tampilan di bawah ini. Kemudian simpan dan keluar dari tampilan ini.<br />
+<center><img border="0" data-original-height="407" data-original-width="581" src="https://1.bp.blogspot.com/-F-Hx1uyST1E/WVC0HKlc75I/AAAAAAAAQ_g/PTKtfEIfgC8rh4YbnWbCoNA7elPpMnJ7ACLcBGAs/s1600/03.png" /></center><br />6. Langkah selanjutnya adalah dengan membuka fitur <b>Edit Connections...</b>.<br />
+7. Di fitur tersebut, klik tombol <b>Add</b>.<br />
+<center><img border="0" data-original-height="325" data-original-width="402" src="https://3.bp.blogspot.com/-XSZWr-jOqko/WVC0dXjulmI/AAAAAAAAQ_k/Era1xJMyem4nOgTIYtMKUy7ULQjxKy24gCLcBGAs/s1600/1.png" /></center><br />8. Lalu akan muncul tampilan seperti berikut ini.<br />
+<center><img border="0" data-original-height="282" data-original-width="496" src="https://1.bp.blogspot.com/-do2ELqd3il0/WVC0lQDji8I/AAAAAAAAQ_o/SxX-m8E2NTMw_dz9Cxn3dBfsde-VZvekACLcBGAs/s1600/2.png" /></center><br />9. Pada tampilan tersebut, klik pilihan <b>Ethernet</b> dan ganti dengan <b>Wifi</b>, lalu klik tombol <b>Create</b>.<br />
+<center><img border="0" data-original-height="282" data-original-width="496" src="https://4.bp.blogspot.com/-SlO33qKXb70/WVC0v13yfnI/AAAAAAAAQ_s/U70PZ8iKuwg1s8DgeoHKV4uhlSyPRV4mgCLcBGAs/s1600/4.png" /></center><br />10. Di langkah berikutnya akan muncul tampilan jendela <i>Editing Wi-Fi connection 1</i>.<br />
+<center><img border="0" data-original-height="509" data-original-width="449" src="https://1.bp.blogspot.com/-RU7a_ILWNt8/WVC1EKH0dkI/AAAAAAAAQ_0/6ETI2quPNVQuhHo7ENPllHjADF8VGLYLACLcBGAs/s1600/5.png" /></center><br />11. Di jendela tersebut terdapat pilihan <b>Mode</b> yang menujukkan <b>Client</b>. Nah, <b>Client</b> tersebut kamu ganti dengan <b>Hotspot</b>.<br />
+<center><img border="0" data-original-height="509" data-original-width="449" src="https://2.bp.blogspot.com/-B7__nvgMJgE/WVC08xiu6rI/AAAAAAAAQ_w/3re-ELjZLyM_rT0X1ES0qX1dKjyFNFm-wCLcBGAs/s1600/6.png" /></center><br />12. Kemudian isi <b>SSID</b> dan ganti <b>Connection name</b> dengan nama wifi yang diinginkan. Misalnya kita menggunakan nama wifi <b>sinyal wifi</b>.<br />
+<center><img border="0" data-original-height="509" data-original-width="449" src="https://1.bp.blogspot.com/-px3ggzcEPls/WVC1P8hvTxI/AAAAAAAAQ_4/GPAb4qeXVL4orHCY6xl4jaDPSBNyJhQOgCLcBGAs/s1600/8.png" /></center><br />
+13. Usai langkah di atas, pilih menu <b>General</b>. Pada menu ini, hilangkanlah ceklist di samping kiri tulisan <i>Automatically connect to this network when it is available</i>.<br />
+<center><img border="0" data-original-height="509" data-original-width="449" src="https://3.bp.blogspot.com/-sSb_exQFemk/WVC1anb0LOI/AAAAAAAAQ_8/oLcu4sKsk_kLUls9oa6cwmLAK74MuFjagCLcBGAs/s1600/9.png" /><br />
+<center><img border="0" data-original-height="509" data-original-width="449" src="https://2.bp.blogspot.com/-QPZy7KCj5Co/WVC1iEEPb_I/AAAAAAAARAA/aLmbDgMs8jEwpQogaqbPyEm0oK2rZ21LwCLcBGAs/s1600/10.png" /></center><br />
+14. Sebelum kamu menge-klik tombol <b>Save</b>, jangan lupa untuk membuat password wifimu dengan memilih menu <b>Wi-Fi Security</b>.<br />
+<center><img border="0" data-original-height="509" data-original-width="449" src="https://4.bp.blogspot.com/-lea3FxA470Q/WVC1tStg68I/AAAAAAAARAE/fnfX_dlyFW0Xd4HDvALQoCkyyyRYoKzXACLcBGAs/s1600/16.png" /></center><br />15. Pada pilihan <b>Security</b>, ganti <b>None</b> menjadi <b>WPA &amp; WPA2 Personal</b>. Lalu isi kolom password dengan password yang diinginkan.<br />
+<center><img border="0" data-original-height="509" data-original-width="449" src="https://2.bp.blogspot.com/-2X6_0SQ2Uo0/WVC2BRu7GSI/AAAAAAAARAI/wA5UlXUQmzIxaCqihh_bS4v_IPpWTPIGgCLcBGAs/s1600/17.png" /></center><br />
+<center><img border="0" data-original-height="509" data-original-width="449" src="https://4.bp.blogspot.com/-cqnLGouyqPc/WVC2UiWicmI/AAAAAAAARAM/SBA02UOpQSgqVJRutlmrCf0d67KrneXAACLcBGAs/s1600/18.png" /></center><br />
+16. Setelah membuat password, baru kamu dapat menyimpannya dengan menge-klik tombol <b>Save</b>.<br />
+<br />
+Ketika telah menyelesaikan enam belas langkah di atas, kamu belum dapat langsung menggunakan wifimu.<br /><blockquote class="tr_bq">Lalu bagaimana cara untuk menggunakannya? </blockquote><br />
+Oke, untuk menggunakannya, pertama kamu pilih menu <b>Connect to Hidden Wi-Fi Network...</b>. Kemudian akan muncul tampilan jendela seperti di bawah ini.<br />
+<center><img border="0" data-original-height="444" data-original-width="556" src="https://4.bp.blogspot.com/-mlz_ofxYV_c/WVC2h2ywRBI/AAAAAAAARAQ/XNZuLoZRBbs4J33WWEJYOILzJgf_vfpsACLcBGAs/s1600/04.png" /></center><br />Pada pilihan <b>Connection</b>, kamu tekan dan pilih wifi yang telah kamu buat tadi. Lalu klik tombol <b>Connect</b>.<br />
+<center><img border="0" data-original-height="280" data-original-width="490" src="https://1.bp.blogspot.com/-bZVP9SwiT_Y/WVC2qdEjc7I/AAAAAAAARAU/9g81f7qkQVIN0CaJLIBON81_ZKOjnKf_QCLcBGAs/s1600/14.png" /></center><br />Ketika telah muncul notifikasi seperti di bawah ini, maka wifi siap untuk digunakan.<br />
+<center><img border="0" data-original-height="177" data-original-width="410" src="https://4.bp.blogspot.com/-AjjgyuJYZwA/WVC2yQRyeEI/AAAAAAAARAY/wJqRPj57SDICDcxhiLhrWZAN-xMLzFahgCLcBGAs/s1600/15.png" /></center><br />Nah, itu dia langkah-langkah untuk membuat wifi di Xubuntu 17.04. Semoga beberapa langkah atau lebih tepatnya tutorial ini dapat bermanfaat. Jika sekiranya ada yang perlu untuk ditanyaka, maka kamu bisa menanyakannya di kolom komentar di bawah ini. Salam linux lover…😁</div>
